@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Edmar Caixeta Filho</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **Django, AI, Data Science and Robotics**
+- 🌱 I’m currently learning **Data Science, Robotics, Flutter and Flask**
 
 - 📫 How to reach me **edmar.caixeta@ufms.br / caixeta.cds@gmail.com**
 
